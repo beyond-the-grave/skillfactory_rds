@@ -35,3 +35,7 @@
 - reviews_date
 - review_check
 - reviews_on_website
+
+## Создание Dummy Variables:
+
+- Города в датасете (31 город)
