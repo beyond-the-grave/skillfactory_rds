@@ -1,4 +1,4 @@
-# [SF-DST] Credit Scoring
+# [SF-DST] Car Price prediction
 
 Ход работы:
 - Загрузка датасетов
